@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="dialog_date_arrive">Arrive by</string>
+    <string name="dialog_date_cancel">Cancel</string>
+    <string name="dialog_date_depart">Depart at</string>
+    <string name="dialog_button_continue_text">Continue</string>
+    <string name="dialog_button_cancel_text">Cancel</string>
+    <string name="home_no_connectivity_dialog_button_text">OK</string>
+    <string name="home_no_connectivity_dialog_message">It seems that you are offline. Connect to a network to log in.</string>
+    <string name="home_no_connectivity_dialog_message_other">It seems that you are offline. Connect to a network to continue.</string>
+</resources>
